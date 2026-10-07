@@ -1,0 +1,14 @@
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# caches
+.kotlin/
+.claude/
+
+# donnees personnelles d'apprentissage (notes de cours, lots de generation IA,
+# textes de sites tiers) : utilisees par MON build local, jamais publiees
+data/
+DOC-DE-TRAVAIL.md
